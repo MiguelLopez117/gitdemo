@@ -1,0 +1,3 @@
+some text in my file
+-------
+small change
